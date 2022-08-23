@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple">{" "}Solidity, C#, Javascript and Python. </b>
               </i>
               <br />
               <br />
@@ -43,12 +43,12 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Python, and Javascript Library and Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple">{" "}Django, .NET, Web3, React.js, Angular, Angular.js, Vue.js and Next.js</b>
               </i>
             </p>
           </Col>

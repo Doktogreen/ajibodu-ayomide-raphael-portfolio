@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple">{" "}Solidity, C#, Javascript and Python. </b>
+                <b className="purple">{" "}Solidity, C#, Javascript and Python.</b>
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Fintech, SaaS, AgroTech, E-commerce, EduTech, and HealthTech.
                 </b>
               </i>
               <br />
@@ -48,7 +48,11 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple">{" "}Django, .NET, Web3, React.js, Angular, Angular.js, Vue.js and Next.js</b>
+                <b className="purple">{" "}Django, .NET, Web3, React.js, Angular, Angular.js, Vue.js, Next.js, Redux, Context, Enzymes, Jest, and Cypress</b>
+              </i>
+              &nbsp; with cloud, and microservices area such as
+              <i>
+                <b className="purple">{" "}AWS, MS Azure, Bit</b>
               </i>
             </p>
           </Col>
@@ -67,7 +71,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Doktogreen"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/lorgarithm"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/raphael-ayomide-ajibodu-b08691186/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +101,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/lorgarithm/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
